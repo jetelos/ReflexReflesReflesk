@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 80, 0);
+    font-family: "roc-grotesk-wide", sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 48px;
+color: rgb(188, 255, 43);
+}
+a:visited{color: rgb(188, 255, 43);}
+a{color: rgb(188, 255, 43);}
+
+.main-img{
+    display:flex;
+    direction: column;
+    gap:10px;
+    flex-wrap:wrap;
+}
+.img-reflex{
+    width: 32%;
+}
